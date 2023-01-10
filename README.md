@@ -26,7 +26,8 @@ Execute the program
         <th colspan ="9">TIME TABLE</th>
      </tr>
      <tr>
-     <th colspan="6"> Reference Number : 22005042 </th><th colspan="4">Name:M.Mohammed imthiyas</th>
+     <th colspan="6"> Reference Number : 22005042 </th>
+     <th colspan="4">Name:M.Mohammed imthiyas</th>
      </tr>
      <tr>
         <th>DAYS</th>
